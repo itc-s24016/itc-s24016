@@ -1,15 +1,17 @@
 ## Hi there 👋
-砂川　愛海  
-Sunagawa Aimi  
-2005/07/09 Okinawa  
 
-### 検定・資格  
-- SEA/J情報セキュリティ技術認定　基礎コース  
-- CompTIA IT Fundamentals(ITF+)  
+砂川　愛海　　  
+Sunagawa Aimi  
+2005/07/09 Okinawa
+
+### 検定・資格
+
+- SEA/J 情報セキュリティ技術認定　基礎コース
+- CompTIA IT Fundamentals(ITF+)
 - インターネット検定 .com Master BASIC
 - LinuC Level1 Exam 101(Version 10.0)
-- サーティファイ　実践プログラミング技術者試験　Python部門　Bronze  
-- サーティファイ　Javaプログラミング能力認定試験　3級  
+- サーティファイ　実践プログラミング技術者試験　 Python 部門　 Bronze
+- サーティファイ　 Java プログラミング能力認定試験　 3 級
 
 <!--
 **itc-s24016/itc-s24016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
