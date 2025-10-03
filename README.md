@@ -1,6 +1,6 @@
 ## Hi there 👋
 砂川　愛海  
-Sunagawa Aimi  [](./images/others/sentakuki.gif)  
+Sunagawa Aimi　　　　　![画像](./images/others/sentakuki.gif)  
 2005/07/09 - Okinawa  
 
 ### 経歴  
