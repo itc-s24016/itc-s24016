@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+砂川　愛海
+Sunagawa Aimi
+2005/07/09 Okinawa
 <!--
 **itc-s24016/itc-s24016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
