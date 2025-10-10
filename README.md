@@ -7,12 +7,12 @@ Sunagawa Aimi
 
 趣味：Threadsでペットやお子さん、インテリア、日常系の投稿を眺めること  
   
-### 経歴
+## 経歴
 - 高校：浦添工業高校　　　卒
 - 専門：IT カレッジ沖縄　在学
 
-### 技術スタック
-## 言語
+# 技術スタック
+### 言語
 よく使用しているのは「**Java**」です  
 でも最近使用しているのは「**TypeScript**」です  
 |言語|できる範囲|
@@ -22,20 +22,19 @@ Sunagawa Aimi
 |Python|自分で考えてコードを書く|
 |TypeScript|調べながらコードを書く|
 
-## その他もろもろ
+### その他もろもろ
 - Github
-- Vercel
-
-### 
+- Vercel 
 
 ### 検定・資格[^1]
-<details><summary>一覧</summary><div>
+<details><summary>一覧</summary><div>  
+  
 - SEA/J 情報セキュリティ技術認定　基礎コース
 - CompTIA IT Fundamentals(ITF+)
 - インターネット検定 .com Master BASIC
 - LinuC Level1 Exam 101(Version 10.0)
 - サーティファイ　実践プログラミング技術者試験　 Python 部門　 Bronze
 - サーティファイ　 Java プログラミング能力認定試験　 3 級  
-</div></details>
+</div></details>  
 これからも更新していきます。  
 [^1]: 資格の認定証などの画像は[こちら](./images/qualification/)から閲覧してください
