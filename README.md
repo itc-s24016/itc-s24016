@@ -36,5 +36,6 @@ Sunagawa Aimi
 - サーティファイ　実践プログラミング技術者試験　 Python 部門　 Bronze
 - サーティファイ　 Java プログラミング能力認定試験　 3 級  
 </div></details>  
+
 これからも更新していきます。  
 [^1]: 資格の認定証などの画像は[こちら](./images/qualification/)から閲覧してください
