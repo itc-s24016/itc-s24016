@@ -41,7 +41,7 @@ INFP
 /授業  
 /自分  
   
-### 検定・資格[^1]
+### 保有資格・検定[^1]
 <details><summary>一覧</summary><div>  
 
 - パソコン利用技術検定　１級
@@ -57,4 +57,4 @@ INFP
 </div></details>  
 
 これからも更新していきます。  
-[^1]: 資格の認定証などの画像は[こちら](./images/qualification/)から閲覧してください
+[^1]: ※資格の認定証などの画像は[こちら](./images/qualification/)から閲覧可能です
