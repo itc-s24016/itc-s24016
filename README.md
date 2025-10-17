@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# はじめまして
+  
 砂川　愛海  
 Sunagawa Aimi  
 2005 年 7 月生まれ  
@@ -29,8 +29,18 @@ INFP
 
 ### その他もろもろ
 - Github
-- Vercel 
+- Vercel
+  
+## 参考リポジトリ  
+・Java  
+/授業、自分  
+[Java_box](https://github.com/itc-s24016/Java_box)  
+[jei25](https://github.com/itc-s24016/jei25)  
 
+・TypeScript  
+/授業  
+/自分  
+  
 ### 検定・資格[^1]
 <details><summary>一覧</summary><div>  
 
