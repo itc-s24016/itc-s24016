@@ -23,6 +23,10 @@ INFP
 |Python|自分で考えてコードを書く|
 |TypeScript|調べながらコードを書く|
 
+### フレームワーク
+・HTML + Bootstrap  
+・TypeScript + Next.js  
+
 ### その他もろもろ
 - Github
 - Vercel 
