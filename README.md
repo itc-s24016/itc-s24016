@@ -28,7 +28,11 @@ Sunagawa Aimi
 
 ### 検定・資格[^1]
 <details><summary>一覧</summary><div>  
-  
+
+- パソコン利用技術検定　１級
+- 情報技術検定　２級
+- 情報処理技能検定　３級
+- ものつくりマイスター　電子機器組み立て講習会（３級）
 - SEA/J 情報セキュリティ技術認定　基礎コース
 - CompTIA IT Fundamentals(ITF+)
 - インターネット検定 .com Master BASIC
