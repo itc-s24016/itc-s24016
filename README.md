@@ -40,6 +40,7 @@ INFP
 ・TypeScript  
 /授業  
 /自分  
+.[try-ex-app](https://github.com/itc-s24016/try-ex-app)  
   
 ### 保有資格・検定[^1]
 <details><summary>一覧</summary><div>  
