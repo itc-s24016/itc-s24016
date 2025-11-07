@@ -35,6 +35,7 @@ Sunagawa Aimi
   
 【自主制作】  
 [Express の使用に挑戦](https://github.com/itc-s24016/try-ex-app)  
+[架空の町サイト　まちたより](https://github.com/itc-s24016/machinotayori)  
   
 【チーム制作】  
 [校内スタンプラリー](https://stamp-rally-nu.vercel.app)  
