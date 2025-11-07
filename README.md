@@ -29,18 +29,18 @@ Sunagawa Aimi
 - Vercel
   
 ## 参考作品、リポジトリ  
-・Java  
-/授業、自分  
+【授業内制作】  
 [Java の授業1](https://github.com/itc-s24016/Java_box)  
 [Java の授業2](https://github.com/itc-s24016/jei25)  
-
-・TypeScript  
-/授業  
-/自分  
-.[Express の使用に挑戦](https://github.com/itc-s24016/try-ex-app)  
-/チーム制作
-.[校内スタンプラリー](https://stamp-rally-nu.vercel.app) 
-### 保有資格・検定[^1]
+  
+【自主制作】  
+[Express の使用に挑戦](https://github.com/itc-s24016/try-ex-app)  
+  
+【チーム制作】  
+[校内スタンプラリー](https://stamp-rally-nu.vercel.app)  
+[簡易的SNSアプリ](https://feelling-app.vercel.app/)  
+  
+## 保有資格・検定[^1]
 <details><summary>一覧</summary><div>  
 
 - パソコン利用技術検定　１級
