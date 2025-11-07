@@ -28,17 +28,18 @@ Sunagawa Aimi
 - Github
 - Vercel
   
-## 参考リポジトリ  
+## 参考作品、リポジトリ  
 ・Java  
 /授業、自分  
-[Java_box](https://github.com/itc-s24016/Java_box)  
-[jei25](https://github.com/itc-s24016/jei25)  
+[Java の授業1](https://github.com/itc-s24016/Java_box)  
+[Java の授業2](https://github.com/itc-s24016/jei25)  
 
 ・TypeScript  
 /授業  
 /自分  
-.[try-ex-app](https://github.com/itc-s24016/try-ex-app)  
-  
+.[Express の使用に挑戦](https://github.com/itc-s24016/try-ex-app)  
+/チーム制作
+.[校内スタンプラリー](https://stamp-rally-nu.vercel.app) 
 ### 保有資格・検定[^1]
 <details><summary>一覧</summary><div>  
 
