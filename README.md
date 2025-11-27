@@ -13,6 +13,8 @@ Sunagawa Aimi
 ### 言語
 よく使っていたのは「**Java**」です  
 でも最近使用しているのは「**TypeScript**」です  
+  
+  
 |言語|できる範囲|
 |:---|:---|
 |HTML/CSS|自分で考えてコードを書く|
@@ -58,3 +60,16 @@ Sunagawa Aimi
 
 これからも更新していきます。  
 [^1]: ※資格の認定証などの画像は[こちら](./images/qualification/)から閲覧可能です
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itc-s24016&theme=transparent)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itc-s24016&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itc-s24016&theme=transparent)
+[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=machinotayori&theme=yeblu)](https://github.com/itcs-24016/machinotayori)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s242016\&layout=compact)
+
+
+
+
+
+
