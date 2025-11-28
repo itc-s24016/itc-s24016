@@ -1,7 +1,5 @@
 # はじめまして
 
-![login](./images/others/login.png)
-    
 砂川　愛海  
 Sunagawa Aimi  
 2005 年 7 月生まれ  
@@ -16,13 +14,7 @@ Sunagawa Aimi
 よく使っていたのは「**Java**」です  
 でも最近使用しているのは「**TypeScript**」です  
   
-  
-|言語|できる範囲|
-|:---|:---|
-|HTML/CSS|自分で考えてコードを書く|
-|Java|自分で考えてコードを書く|
-|Python|自分で考えてコードを書く|
-|TypeScript|調べながらコードを書く|
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24016)](https://github.com/anuraghazra/github-readme-stats)
 
 ### フレームワーク
 ・HTML + Bootstrap  
@@ -33,14 +25,13 @@ Sunagawa Aimi
 - Vercel
   
 ## 参考作品、リポジトリ  
-【授業内制作】  
-[Java の授業1](https://github.com/itc-s24016/Java_box)  
-[Java の授業2](https://github.com/itc-s24016/jei25)  
-  
-### 【自主制作】  
-[Express の使用に挑戦](https://github.com/itc-s24016/try-ex-app)  
-[架空の町サイト　まちたより](https://github.com/itc-s24016/machinotayori)  
-  
+### 【自主制作】
+    
+[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=machinotayori&theme=default)](https://github.com/itc-s24016/machinotayori)
+[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=try-ex-app&theme=default)](https://github.com/itc-s24016/try-ex-app)※未完成
+
+
+
 ### 【チーム制作】  
 校内スタンプラリー
 <details><summary>実行動画、verselリンク等</summary>  
@@ -57,16 +48,22 @@ Sunagawa Aimi
 
 </details>  
 
-[簡易的SNSアプリ](https://feelling-app.vercel.app/)  
+簡易的SNSアプリ 
 <details><summary>実行動画、verselリンク等</summary> 
+    
   [Versel.app](https://feelling-app.vercel.app/)  
-  ※現在 firebase の有効期限が切れてしまい、ログイン・実行することができません
-  ログイン画面
-  
+  ※現在 firebase の有効期限が切れてしまい、実行することができません  
+  ログイン画面  
+  <img width="417" height="861" alt=" login" src="https://github.com/user-attachments/assets/37395825-f747-48c1-b25a-ccc379bff65a" />
 
+  新規登録画面  
+<img width="417" height="861" alt="newRegistration" src="https://github.com/user-attachments/assets/028723ea-fb08-4117-8448-88b0909c1259" />
+
+  パスワードをお忘れの場合  
+<img width="417" height="861" alt="resetPassword" src="https://github.com/user-attachments/assets/c766f21c-7fd2-4f3c-9b49-7c91b11a9d57" />
   
-  新規登録画面
-</ditails>
+</details>
+
 ## 保有資格・検定[^1]
 <details><summary>一覧</summary><div>  
 
@@ -84,15 +81,6 @@ Sunagawa Aimi
 
 これからも更新していきます。  
 [^1]: ※資格の認定証などの画像は[こちら](./images/qualification/)から閲覧可能です
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itc-s24016&theme=transparent)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itc-s24016&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itc-s24016&theme=transparent)
-[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=machinotayori&theme=yeblu)](https://github.com/itcs-24016/machinotayori)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s242016\&layout=compact)
-
-
 
 
 
