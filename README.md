@@ -35,18 +35,34 @@ Sunagawa Aimi
 [Java の授業1](https://github.com/itc-s24016/Java_box)  
 [Java の授業2](https://github.com/itc-s24016/jei25)  
   
-【自主制作】  
+### 【自主制作】  
 [Express の使用に挑戦](https://github.com/itc-s24016/try-ex-app)  
 [架空の町サイト　まちたより](https://github.com/itc-s24016/machinotayori)  
   
-【チーム制作】  
-[校内スタンプラリー](https://stamp-rally-nu.vercel.app)  
+### 【チーム制作】  
+校内スタンプラリー
+<details><summary>実行動画、verselリンク等</summary>  
   
-[ログイン-1問目まで](https://drive.google.com/file/d/1unaJsLqDWGvxrY3Dw8jkj3_oUNkUDjRN/view?usp=sharing)    
-[全問正解画面の表示](https://drive.google.com/file/d/1BxRZ4hqvr6Slbg7NXpptFyC9M3-89Nv2/view?usp=sharing)  
+  [Versel.app](https://stamp-rally-nu.vercel.app)  
+  
+  ログインから１問目を解く流れ ▼  
+  
+  https://github.com/user-attachments/assets/6b43277f-3d33-498d-8f06-a79c9cb0cea2  
+  
+  全問正解後のコンプリート画面表示 ▼  
+  
+  https://github.com/user-attachments/assets/9414e25c-5a5a-4046-98e2-01c8c5d41c13
+
+</details>  
 
 [簡易的SNSアプリ](https://feelling-app.vercel.app/)  
+<details><summary>実行動画、verselリンク等</summary> 
+  [Versel.app](https://feelling-app.vercel.app/)  
+  ※現在 firebase の有効期限が切れてしまい、ログイン・実行することができません
+  ログイン画面
   
+  新規登録画面
+</ditails>
 ## 保有資格・検定[^1]
 <details><summary>一覧</summary><div>  
 
