@@ -1,5 +1,7 @@
 # はじめまして
-  
+
+![login](./images/others/login.png)
+    
 砂川　愛海  
 Sunagawa Aimi  
 2005 年 7 月生まれ  
@@ -60,6 +62,8 @@ Sunagawa Aimi
   [Versel.app](https://feelling-app.vercel.app/)  
   ※現在 firebase の有効期限が切れてしまい、ログイン・実行することができません
   ログイン画面
+  
+
   
   新規登録画面
 </ditails>
