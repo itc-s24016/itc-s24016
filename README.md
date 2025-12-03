@@ -11,23 +11,43 @@ Sunagawa Aimi
 
 # 技術スタック
 ### 言語
-よく使っていたのは「**Java**」です  
-でも最近使用しているのは「**TypeScript**」です  
   
-[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24016)](https://github.com/anuraghazra/github-readme-stats)
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24016)](https://github.com/anuraghazra/github-readme-stats)  
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts,js,md&theme=light)](https://skillicons.dev)
 
-### フレームワーク
-・HTML + Bootstrap  
-・TypeScript + Next.js  
+### フレームワーク / ライブラリ
 
-### その他もろもろ
-- Github
-- Vercel
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,pug,bootstrap,tailwind,prisma&theme=light)](https://skillicons.dev)  
+
+### データベース  
+[![My Skills](https://skillicons.dev/icons?i=supabase,sqlite,mysql&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/-Adminer-34567C.svg?logo=adminer&style=flat">
+
+### 実行環境
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,ubuntu,vercel,github&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/-Vagrant-1868F2.svg?logo=vagrant&style=flat">
+<img src="https://img.shields.io/badge/-Terminal-241F31.svg?logo=gnometerminal&style=flat">
+
+### 管理
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/-HubSpot-fff.svg?logo=hubspot&style=flat">
+
+
+### エディタ
+
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,webstorm,idea&theme=light)](https://skillicons.dev)
+
+### AI
+<img src="https://img.shields.io/badge/-Gemini-fff.svg?logo=googlegemini&style=flat"><img src="https://img.shields.io/badge/-Claude-fff.svg?logo=claude&style=flat"><img src="https://img.shields.io/badge/-Copilot-333.svg?logo=githubcopilot&style=flat">
+
+### ナレッジ
+<img src="https://img.shields.io/badge/-Qiita-fff.svg?logo=qiita&style=flat"><img src="https://img.shields.io/badge/-Zenn-fff.svg?logo=zenn&style=flat">
   
 ## 参考作品、リポジトリ  
 ### 【自主制作】
     
-[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=machinotayori&theme=default)](https://github.com/itc-s24016/machinotayori)
+[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=machinotayori&theme=default)](https://github.com/itc-s24016/machinotayori)  
 [![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=try-ex-app&theme=default)](https://github.com/itc-s24016/try-ex-app)※未完成
 
 
@@ -53,6 +73,7 @@ Sunagawa Aimi
     
   [Versel.app](https://feelling-app.vercel.app/)  
   ※現在 firebase の有効期限が切れてしまい、実行することができません  
+  ※文字化けはわざとであり、ヒントになっているのでバグではありません  
   ログイン画面  
   <img width="417" height="861" alt=" login" src="https://github.com/user-attachments/assets/37395825-f747-48c1-b25a-ccc379bff65a" />
 
