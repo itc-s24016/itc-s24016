@@ -11,8 +11,7 @@ Sunagawa Aimi
 
 # 技術スタック
 ### 言語
-  
-[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24016)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts,js,md&theme=light)](https://skillicons.dev)
 
 ### フレームワーク / ライブラリ
