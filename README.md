@@ -45,9 +45,9 @@ Sunagawa Aimi
   
 ## 参考作品、リポジトリ  
 ### 【自主制作】
-    
-[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=machinotayori&theme=default)](https://github.com/itc-s24016/machinotayori)  
-[![repo_card](https://github-readme-stats.vercel.app/api/pin/?username=itc-s24016&repo=try-ex-app&theme=default)](https://github.com/itc-s24016/try-ex-app)※未完成
+
+[machinotayori](https://github.com/itc-s24016/machinotayori)  
+[try-ex-app](https://github.com/itc-s24016/try-ex-app)　　　※未完成
 
 
 
