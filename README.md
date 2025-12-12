@@ -12,30 +12,30 @@ Sunagawa Aimi
 # 技術スタック
 ### 言語
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts,js,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts,js,md&theme=light)]()
 
 ### フレームワーク / ライブラリ
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,pug,bootstrap,tailwind,prisma&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,pug,bootstrap,tailwind,prisma&theme=light)]()  
 
 ### データベース  
-[![My Skills](https://skillicons.dev/icons?i=supabase,sqlite,mysql&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=supabase,sqlite,mysql&theme=light)]()  
 <img src="https://img.shields.io/badge/-Adminer-34567C.svg?logo=adminer&style=flat">
 
 ### 実行環境
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,ubuntu,vercel,github&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,linux,ubuntu,vercel,github&theme=light)]()  
 <img src="https://img.shields.io/badge/-Vagrant-1868F2.svg?logo=vagrant&style=flat">
 <img src="https://img.shields.io/badge/-Terminal-241F31.svg?logo=gnometerminal&style=flat">
 
 ### 管理
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)]()  
 <img src="https://img.shields.io/badge/-HubSpot-fff.svg?logo=hubspot&style=flat">
 
 
 ### エディタ
 
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,webstorm,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,webstorm,idea&theme=light)]()
 
 ### AI
 <img src="https://img.shields.io/badge/-Gemini-fff.svg?logo=googlegemini&style=flat"><img src="https://img.shields.io/badge/-Claude-fff.svg?logo=claude&style=flat"><img src="https://img.shields.io/badge/-Copilot-333.svg?logo=githubcopilot&style=flat">
