@@ -53,9 +53,9 @@ Sunagawa Aimi
 
 ### 【チーム制作】  
 校内スタンプラリー
-<details><summary>実行動画、verselリンク等</summary>  
+<details><summary>実行動画、vercelリンク等</summary>  
   
-  [Versel.app](https://stamp-rally-nu.vercel.app)  
+  [Vercel.app](https://stamp-rally-nu.vercel.app)  
   
   ログインから１問目を解く流れ ▼  
   
@@ -68,9 +68,9 @@ Sunagawa Aimi
 </details>  
 
 簡易的SNSアプリ 
-<details><summary>実行動画、verselリンク等</summary> 
+<details><summary>実行動画、vercelリンク等</summary> 
     
-  [Versel.app](https://feelling-app.vercel.app/)  
+  [Vercel.app](https://feelling-app.vercel.app/)  
   ※現在 firebase の有効期限が切れてしまい、実行することができません  
   ※文字化けはわざとであり、ヒントになっているのでバグではありません  
   ログイン画面  
