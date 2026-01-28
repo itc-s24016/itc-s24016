@@ -16,11 +16,11 @@ Sunagawa Aimi
 
 ### フレームワーク / ライブラリ
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,pug,bootstrap,tailwind,prisma&theme=light)]()  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,prisma&theme=light)]()  
 
 ### データベース  
-[![My Skills](https://skillicons.dev/icons?i=supabase,sqlite,mysql&theme=light)]()  
-<img src="https://img.shields.io/badge/-Adminer-34567C.svg?logo=adminer&style=flat">
+[![My Skills](https://skillicons.dev/icons?i=supabase&theme=light)]()
+<img src="https://img.shields.io/badge/-Adminer-34567C.svg?logo=adminer&style=flat">MariaDB
 
 ### 実行環境
 
@@ -35,13 +35,13 @@ Sunagawa Aimi
 
 ### エディタ
 
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,webstorm,idea&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,webstorm,idea,pycharm&theme=light)]()
 
 ### AI
-<img src="https://img.shields.io/badge/-Gemini-fff.svg?logo=googlegemini&style=flat"><img src="https://img.shields.io/badge/-Claude-fff.svg?logo=claude&style=flat"><img src="https://img.shields.io/badge/-Copilot-333.svg?logo=githubcopilot&style=flat">
+<img src="https://img.shields.io/badge/-Gemini-fff.svg?logo=googlegemini&style=flat"><img src="https://img.shields.io/badge/-Claude-fff.svg?logo=claude&style=flat"><img src="https://img.shields.io/badge/-Copilot-333.svg?logo=githubcopilot&style=flat"><img src="https://img.shields.io/badge/-Genspark-333.svg?logo=genspark&style=flat">
 
 ### ナレッジ
-<img src="https://img.shields.io/badge/-Qiita-fff.svg?logo=qiita&style=flat"><img src="https://img.shields.io/badge/-Zenn-fff.svg?logo=zenn&style=flat">
+<img src="https://img.shields.io/badge/-Qiita-fff.svg?logo=qiita&style=flat"><img src="https://img.shields.io/badge/-Zenn-fff.svg?logo=zenn&style=flat"><img src="https://img.shields.io/badge/-Reddit-fff.svg?logo=reddit&style=flat">
   
 ## 参考作品、リポジトリ  
 ### 【自主制作】
