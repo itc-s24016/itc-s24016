@@ -52,7 +52,7 @@ Sunagawa Aimi
 
 
 ### 【チーム制作】  
-校内スタンプラリー
+##### 校内スタンプラリー
 <details><summary>実行動画、vercelリンク等</summary>  
   
   [Vercel.app](https://stamp-rally-nu.vercel.app)  
@@ -66,8 +66,8 @@ Sunagawa Aimi
   https://github.com/user-attachments/assets/9414e25c-5a5a-4046-98e2-01c8c5d41c13
 
 </details>  
-
-簡易的SNSアプリ 
+  
+##### 簡易的SNSアプリ 
 <details><summary>実行動画、vercelリンク等</summary> 
     
   [Vercel.app](https://feelling-app.vercel.app/)  
@@ -82,8 +82,13 @@ Sunagawa Aimi
   パスワードをお忘れの場合  
 <img width="417" height="861" alt="resetPassword" src="https://github.com/user-attachments/assets/c766f21c-7fd2-4f3c-9b49-7c91b11a9d57" />
   
-</details>
-
+</details>  
+  
+##### 進級制作 
+<details><summary>未完成です...</summary> 
+https://github.com/itc-s24025/task-report-monthly#    
+</details>  
+  
 ## 保有資格・検定[^1]
 <details><summary>一覧</summary><div>  
 
