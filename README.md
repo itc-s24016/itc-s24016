@@ -86,7 +86,8 @@ Sunagawa Aimi
   
 ##### 進級制作 
 <details><summary>未完成です...</summary> 
-https://github.com/itc-s24025/task-report-monthly#    
+  https://github.com/itc-s24006/Questa/tree/main
+  https://github.com/itc-s24006/Questa_front/tree/main/app
 </details>  
   
 ## 保有資格・検定[^1]
