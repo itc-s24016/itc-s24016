@@ -91,10 +91,8 @@ SPI対策を楽しくできるようにがちゃ機能がついたWebアプリ�
   [フロントエンド](https://github.com/itc-s24006/Questa_front/tree/main/app)  
   [バックエンド](https://github.com/itc-s24006/Questa/tree/main)
 
-  マイページ
-  <img width="1852" height="962" alt="Screenshot from 2026-02-06 11-30-12" src="https://github.com/user-attachments/assets/5a6c1e74-e75f-4082-bf59-ac15b122bdb0" />
-  ガチャ画面
-<img width="1852" height="962" alt="Screenshot from 2026-02-06 11-30-23" src="https://github.com/user-attachments/assets/8c638eb9-969d-40a0-92ad-ad0f9cedfbc2" /><img width="1852" height="962" alt="Screenshot from 2026-02-06 11-30-12" src="https://github.com/user-attachments/assets/6e55bfe3-6aaa-46c2-bc9f-220b86f658ce" />
+  <img width="500" height="300" alt="Screenshot from 2026-02-06 11-30-12" src="https://github.com/user-attachments/assets/5a6c1e74-e75f-4082-bf59-ac15b122bdb0" /> 
+  <img width="500" height="300" alt="Screenshot from 2026-02-06 11-30-23" src="https://github.com/user-attachments/assets/8c638eb9-969d-40a0-92ad-ad0f9cedfbc2" />
 
 
 </details>  
