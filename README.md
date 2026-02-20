@@ -45,14 +45,16 @@ Sunagawa Aimi
   
 ## 参考作品、リポジトリ  
 ### 【自主制作】
-
+##### 架空地域だより「まちのたより」
 [machinotayori](https://github.com/itc-s24016/machinotayori)  
+
+##### Express.js挑戦
 [try-ex-app](https://github.com/itc-s24016/try-ex-app)　　　※未完成
 
 
 
 ### 【チーム制作】  
-##### 校内スタンプラリー
+##### 校内スタンプラリー「スタンプラリー」
 <details><summary>実行動画、vercelリンク等</summary>  
   
   [Vercel.app](https://stamp-rally-nu.vercel.app)  
@@ -67,33 +69,35 @@ Sunagawa Aimi
 
 </details>  
   
-##### 簡易的SNSアプリ 
+##### 簡易的SNSアプリ 「feeling-app」
 <details><summary>実行動画、vercelリンク等</summary> 
     
   [Vercel.app](https://feelling-app.vercel.app/)  
   ※現在 firebase の有効期限が切れてしまい、実行することができません  
   ※文字化けはわざとであり、ヒントになっているのでバグではありません  
-  ログイン画面  
-  <img width="417" height="861" alt=" login" src="https://github.com/user-attachments/assets/37395825-f747-48c1-b25a-ccc379bff65a" />
-
-  新規登録画面  
-<img width="417" height="861" alt="newRegistration" src="https://github.com/user-attachments/assets/028723ea-fb08-4117-8448-88b0909c1259" />
-
-  パスワードをお忘れの場合  
-<img width="417" height="861" alt="resetPassword" src="https://github.com/user-attachments/assets/c766f21c-7fd2-4f3c-9b49-7c91b11a9d57" />
+  
+  <details><summary>画像一覧</summary>
+    <img width="200" height="400" alt=" login" src="https://github.com/user-attachments/assets/37395825-f747-48c1-b25a-ccc379bff65a" />
+    <img width="200" height="400" alt="newRegistration" src="https://github.com/user-attachments/assets/028723ea-fb08-4117-8448-88b0909c1259" />
+    <img width="200" height="400" alt="resetPassword" src="https://github.com/user-attachments/assets/c766f21c-7fd2-4f3c-9b49-7c91b11a9d57" />
+  </details>
   
 </details>  
   
-##### 進級制作 
-SPI対策を楽しくできるようにがちゃ機能がついたWebアプリケーションです。
-<details><summary>未完成です...</summary> 
+##### SPI対策学習支援Webアプリケーション 「Questa」
+<details><summary>実行画像、vercelリンク等</summary>
+  ※デザイン・機能の未実装が多いため、レイアウトや動作がおかしい箇所があります。
   
-  [フロントエンド](https://github.com/itc-s24006/Questa_front/tree/main/app)  
-  [バックエンド](https://github.com/itc-s24006/Questa/tree/main)
-
-  <img width="500" height="300" alt="Screenshot from 2026-02-06 11-30-12" src="https://github.com/user-attachments/assets/5a6c1e74-e75f-4082-bf59-ac15b122bdb0" /> 
-  <img width="500" height="300" alt="Screenshot from 2026-02-06 11-30-23" src="https://github.com/user-attachments/assets/8c638eb9-969d-40a0-92ad-ad0f9cedfbc2" />
-
+  [vercel.app](https://questa-front.vercel.app/)  
+  [Git_FrontEnd](https://github.com/itc-s24006/Questa_front/tree/main/app)  
+  [Git BackEnd](https://github.com/itc-s24006/Questa/tree/main)  
+  
+  <details><summary>画像一覧</summary>
+    <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8dee1973-0f75-406b-bd39-c1a00ed0306e" />
+    <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/cdfcee95-6f5d-4b25-b23d-a5bef68c25b6" />
+    <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/2c8c0728-5aad-4d1b-baf7-8afe91d6c9fa" />
+    <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/435427d0-e12a-4d24-9626-275f2f128903" />
+  </details>
 
 </details>  
   
