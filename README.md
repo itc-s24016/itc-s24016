@@ -12,7 +12,7 @@ Sunagawa Aimi
 # 技術スタック
 ### 言語
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts,js,md&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts,js,md,kotlin&theme=light)]()
 
 ### フレームワーク / ライブラリ
 
@@ -35,13 +35,13 @@ Sunagawa Aimi
 
 ### エディタ
 
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,webstorm,idea,pycharm&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,webstorm,idea,pycharm,androidstudio&theme=light)]()
 
 ### AI
 <img src="https://img.shields.io/badge/-Gemini-fff.svg?logo=googlegemini&style=flat"><img src="https://img.shields.io/badge/-Claude-fff.svg?logo=claude&style=flat"><img src="https://img.shields.io/badge/-Copilot-333.svg?logo=githubcopilot&style=flat"><img src="https://img.shields.io/badge/-Genspark-333.svg?logo=genspark&style=flat">
 
 ### ナレッジ
-<img src="https://img.shields.io/badge/-Qiita-fff.svg?logo=qiita&style=flat"><img src="https://img.shields.io/badge/-Zenn-fff.svg?logo=zenn&style=flat"><img src="https://img.shields.io/badge/-Reddit-fff.svg?logo=reddit&style=flat">
+<img src="https://img.shields.io/badge/-Qiita-fff.svg?logo=qiita&style=flat"><img src="https://img.shields.io/badge/-Zenn-fff.svg?logo=zenn&style=flat">
   
 ## 参考作品、リポジトリ  
 ### 【自主制作】
