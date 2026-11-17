@@ -113,7 +113,8 @@ Sunagawa Aimi
 - インターネット検定 .com Master BASIC
 - LinuC Level1 Exam 101(Version 10.0)
 - サーティファイ　実践プログラミング技術者試験　 Python 部門　 Bronze
-- サーティファイ　 Java プログラミング能力認定試験　 3 級  
+- サーティファイ　 Java プログラミング能力認定試験　 3 級
+- 1Z0-818-JPN-ONLINE: Java SE Bronze
 </div></details>  
 
 これからも更新していきます。  
