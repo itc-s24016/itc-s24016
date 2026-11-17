@@ -118,7 +118,7 @@ Sunagawa Aimi
 </div></details>  
 
 これからも更新していきます。  
-[^1]: ※資格の認定証などの画像は[こちら](./images/qualification/)から閲覧可能です
+[^1]: ※資格の認定証などの画像は[こちら](./images/qualification)から閲覧可能です
 
 
 
